@@ -1,0 +1,203 @@
+html {
+   background-color: #90EE90;
+   padding: 10px;
+   margin: 0%;
+
+}
+
+body {
+   width: 80%;
+   background-image: url("../img/jungla.jpg");
+   margin: 0 auto;
+   margin-top: -2em;
+   margin-bottom: -2em;
+   padding: 10px;
+   border: none;
+   border-left: white 20px double;
+   border-right: white 20px double;
+   
+
+}
+
+
+h1 {
+   color: #FE5A1D;
+   text-align: center;
+   font-weight: 900;
+}
+
+.imagen {
+   border-style: none;
+   text-align: center;
+   display: block;
+}
+
+span {
+   color: red;
+}
+
+.primerop {
+   width: 70%;
+   text-align: left 20%;
+   margin-right:  60%;
+   margin-top: 5%;
+   margin-left: 5%;
+   margin-bottom: 5%;
+   padding: 10px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+
+}
+.primero {
+   background-color: whitesmoke;
+   width: 70%;
+   text-align: left 20%;
+   margin-right: 60%;
+   margin-top: 10%;
+   margin-left: 5%;
+   margin-bottom: 5%;
+   padding: 10px;
+   border: #ACE1AF 7px solid;
+   border-bottom-left-radius: 2em;
+   border-top-left-radius: 2em;
+   border-right: 25px #ACE1AF solid;
+ 
+
+}
+
+  .segundop {
+
+  text-align: right;
+   margin-right: 10%;
+   margin-left: 60%;
+   margin-bottom: 2%;
+   margin-top: 1%; 
+   border-bottom-left-radius: 2em;
+   border-top-left-radius: 2em;
+
+} 
+
+.segundo /*div */ {
+   background-color: whitesmoke;
+   width: 65%;
+   margin-left: 30%;
+   margin-right: 10%;
+   margin-top: 5%;
+   margin-bottom: 5%;
+   padding: 1px;
+   border: #ACE1AF 7px solid;
+   border-bottom-left-radius: 2em;
+   border-top-left-radius: 2em;
+   border-left: 25px #ACE1AF solid;
+}
+
+.tercerp {
+   text-align: center;
+   margin-left: 5%;
+   margin-top: 5%;
+   margin-right: 5%;
+   margin-bottom: 5%;
+
+   /* 'Courier New', Courier, monospace; */
+}
+.tercero
+{
+   background-color: whitesmoke;
+   width: 60%;
+   margin-left: auto;
+   margin-right: auto; 
+   padding: 2px;
+   border: green 7px solid;
+   border-radius: 2em;
+   
+}
+
+
+.cuartop { 
+   width: 70%;
+   text-align: left 20%;
+   margin-right:  60%;
+   margin-top: 5%;
+   margin-left: 5%;
+   margin-bottom: 5%;
+   padding: 10px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
+
+.cuarto {   
+    background-color: whitesmoke;
+   width: 70%;
+   text-align: left 20%;
+   margin-right: 60%;
+   margin-top: 10%;
+   margin-left: 5%;
+   margin-bottom: 5%;
+   padding: 10px;
+   border: #ACE1AF 7px solid;
+   border-bottom-left-radius: 2em;
+   border-top-left-radius: 2em;
+   border-right: 25px #ACE1AF solid;
+}
+
+
+.quintop {
+   text-align: right;
+   margin-right: 70%;
+   margin-left: 10%;
+   margin-bottom: 2%;
+   margin-top: 1%; 
+   border-bottom-left-radius: 2em;
+   border-top-left-radius: 2em;
+ 
+}
+.quinto {
+   background-color: whitesmoke;
+   width: 65%;
+   margin-left: 30%;
+   margin-right: 10%;
+   margin-top: 5%;
+   margin-bottom: 5%;
+   padding: 1px;
+   border: #ACE1AF 7px solid;
+   border-bottom-left-radius: 2em;
+   border-top-left-radius: 2em;
+   border-left: 25px #ACE1AF solid;
+
+}
+
+
+
+.sextop {
+   background-color: whitesmoke;
+   width: 60%;
+   text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 10px;
+   border-bottom-left-radius: 2em;
+   border-top-left-radius: 2em;
+}
+.sexto {
+   width: 60%;
+   text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 10px;
+   border: green 7px solid;
+   border-radius: 2em;
+}
+
+.video {
+   margin: 0 auto;
+   text-align: center;
+   padding: 10px;
+}
+
+.primero,
+.segundo .tercero,
+.cuarto,
+.quinto,
+.sexto {
+   
+   background-color: whitesmoke;
+}
